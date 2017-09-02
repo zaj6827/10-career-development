@@ -1,0 +1,16 @@
+# Lab 10 Linked Lists
+
+Created functionality for creating a linked list, with nodes.
+Also created functionality to delete, append, and prepend nodes, with an additional function to reverse the order of the linked list.
+### **NOTE**
+Linked List is a Single Linked List, for a Double Linked List, documentation can be found here.
+
+### Functionality for the constructor works as such....
+
+### Functionality for the delete function as such...
+
+### Functionality for delete...
+
+### Functionality for append and prepend....
+
+### Functionality for reversing SSL....
